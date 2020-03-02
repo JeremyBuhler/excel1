@@ -32,4 +32,3 @@ Most pivot table settings can be changed in one of two places:
 
 - a new worksheet with at pivot table analyzing one survey variable
 - a pivot table *slicer* to filter by respondent type (grad/undergrad)
-- a simple graph based onthe pivot table
