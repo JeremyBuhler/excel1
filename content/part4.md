@@ -21,7 +21,7 @@ Each column in your original table is a building block you may use in the new "p
 
 ### Pivot table settings
 Most pivot table settings can be changed in one of two places:
-- In *PivotTable Tools -> Analyze -> Options
+- In *PivotTable Tools -> Analyze -> Options*
 - In drop-down menus in the pivot table builder interface (see especially the *Value field settings*)
 
 *Slicers* are visual filters that make it easier to switch between views of your data. To add a slicer go to *PivotTable Tools -> Analyze -> Insert Slicer*

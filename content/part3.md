@@ -14,7 +14,7 @@ nav_order: 4
 
  Below are the formulas used in the lesson. Examples of these formulas in use are readily available online:
  
- - `CONCATENATE()'
+ - `CONCATENATE()`
  - `COUNTIF()`
  - `SUM()`
  - `AVERAGE()`

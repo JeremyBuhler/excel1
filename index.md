@@ -4,13 +4,13 @@ title: Overview
 nav_order: 1
 ---
  
- ## Analyzing survey data in Excel
+## Analyzing survey data in Excel
  
  The goal of this lesson is to introduce students to several data manipulation and analysis features in Excel. Starting with a .csv of survey results exported from Qualtrics, participants will format the data for analysis, create derived variables, and generate descriptive statistics using formulas and pivot tables.
  
- Download <a href="sample_data.csv" download="download">sample_data.csv</a> and save it somewhere accessible.
+ Download <a href="content/sample_data.csv">sample_data.csv</a> and save it somewhere accessible.
  
- ### Outline
+### Outline
  
  This is your session. If you have a question or feel we are going too fast, please let the instructor know. We can decide as a group what to cover.
 
