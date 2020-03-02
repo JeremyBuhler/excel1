@@ -1,5 +1,8 @@
 ---
 layout: default
-title: Part 1
+title: Setting the stage
 nav_order: 2
 ---
+
+## Setting the stage
+
