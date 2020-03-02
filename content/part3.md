@@ -6,11 +6,11 @@ nav_order: 4
 
 ## Formulas for data analysis
 
-###Purpose
+### Purpose
 - introduce formulas for data manipulation
 - introduce formulas for analysis
 
-###Selected formulas
+### Selected formulas
 
  Below are the formulas used in the lesson. Examples of these formulas in use are readily available online:
  
@@ -20,7 +20,7 @@ nav_order: 4
  - `AVERAGE()`
  - `STDEV.S()`
 
-###By the end of this section...
+### By the end of this section...
 
 - a new variable/column for "website dissatisfaction score"
 - use formulas to calculate counts, sums, means, and standard deviation
